@@ -1,0 +1,14 @@
+installation
+--on arch
+visit the rust item and copy the curl statement
+. "$HOME/.cargo/env" , add variable to path
+
+getting started
+create a a rust folder
+run - code .
+new file- hello.rs
+
+1. print hello world
+fn main() {
+  println!("fuck you);
+}
