@@ -12,3 +12,10 @@ new file- hello.rs
 fn main() {
   println!("fuck you);
 }
+
+1. compile
+  rustc
+    - rustc filename 
+    ./filename
+  cargo 
+    - cargo new 
